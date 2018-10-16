@@ -1,5 +1,5 @@
 # Maintainer: Jacob Mischka <jacob@mischka.me>
-# Modified by: Vittorio Roberto Alfieri <me@rebtoor.com>
+# Contributor: Vittorio Roberto Alfieri <me@rebtoor.com>
 pkgname=brave
 pkgver=0.25.2
 _pkgver="$pkgver"dev
